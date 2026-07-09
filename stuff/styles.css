@@ -121,6 +121,7 @@ nav a:hover{
     }
 
     .sidebar{
+        position: sticky;
         width:100%;
         border-right:none;
         border-bottom:1px solid #2563eb;
